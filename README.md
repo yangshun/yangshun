@@ -3,8 +3,6 @@
 <div>
   <img src="https://gpvc.arturio.dev/yangshun" alt="Profile views"/>
 </div>
-  
-<img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=concerned&eyes=content&faceMask=false&faceMaskColor=black&facialHair=none&graphic=react&hair=short&hairColor=black&hat=none&hatColor=black&lashes=false&lipColor=red&mask=false&mouth=lips&skinTone=light" alt="Yangshun Big Head" width="400" />
 
 <br/>
 
