@@ -31,6 +31,6 @@
 
 ## Try GreatFrontEnd
 
-<a href="https://www.greatfrontend.com/?fpr=yangshun">
+<a href="https://www.greatfrontend.com/?gnrs=yangshun">
   <img src="./img/js-interview-tall.png" alt="GreatFrontEnd">
 </a>
