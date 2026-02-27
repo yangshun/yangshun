@@ -1,6 +1,6 @@
 # Hi I'm Yangshun
 
-📍 Singapore &middot; AI Frontend Engineer &middot; Creator [GreatFrontEnd](https://www.greatfrontend.com/) &middot; Ex-[Meta](https://github.com/facebook) Staff Engineer &middot; Creator of Docusaurus 2
+📍 Singapore &middot; ✨ AI Frontend Engineer &middot; 🚀 Creator [GreatFrontEnd](https://www.greatfrontend.com/) &middot; Ex-Meta Staff Engineer &middot; Creator of Docusaurus 2
 
 ## Building
 
@@ -21,6 +21,7 @@
 ## Past projects
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) (63.9k ⭐): Simple and extensible documentation website generator, powers Meta's open source project websites
+- [facebook/flux](https://github.com/facebookarchive/flux) (17.5k ⭐): The first state management library for React
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) (443 ⭐): CSS framework for documentation websites (built for Docusaurus)
 - [NUSMods](https://github.com/nusmodifications/nusmods) (646 ⭐): Student-initiated course planning platform for NUS that later turned official
 
