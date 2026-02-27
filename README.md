@@ -22,7 +22,7 @@
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) (63.9k ⭐): Simple and extensible documentation website generator, powers Meta's open source project websites
 - [facebook/flux](https://github.com/facebookarchive/flux) (17.5k ⭐): The first state management library for React
-- [facebookincubator/infima](https://github.com/facebookincubator/infima) (443 ⭐): CSS framework for documentation websites (built for Docusaurus)
+- [facebook/infima](https://github.com/facebookincubator/infima) (443 ⭐): CSS framework for documentation websites (built for Docusaurus)
 - [NUSMods](https://github.com/nusmodifications/nusmods) (646 ⭐): Student-initiated course planning platform for NUS that later turned official
 
 ## GitHub activity
