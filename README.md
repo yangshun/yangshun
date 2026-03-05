@@ -4,7 +4,7 @@
 
 ## Building
 
-- [tree-node-cli](https://github.com/yangshun/tree-node-cli) (266 ⭐): Node.js utility equivalent of Linux tree command to list directory contents in a tree-like format
+- [tree-node-cli](https://github.com/yangshun/tree-node-cli) (266 ⭐): Node.js equivalent of `Linux`'s tree command. List directory contents in a tree-like format from CLI or Node.js
 - [delete-github-forks](https://github.com/yangshun/delete-github-forks) (236 ⭐): Bulk delete your GitHub forks easily
 - [lago](https://github.com/yangshun/lago) (3k ⭐): Data Structures and Algorithms library in TypeScript
 - [create-ts-fast](https://github.com/yangshun/create-ts-fast) (81 ⭐): CLI tool for scaffolding npm packages in TypeScript
