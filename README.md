@@ -8,6 +8,8 @@
 - [delete-github-forks](https://github.com/yangshun/delete-github-forks) (236 ⭐): Bulk delete your GitHub forks easily
 - [lago](https://github.com/yangshun/lago) (3k ⭐): Data Structures and Algorithms library in TypeScript
 - [create-ts-fast](https://github.com/yangshun/create-ts-fast) (81 ⭐): CLI tool for scaffolding npm packages in TypeScript
+- [greatstorage](https://github.com/yangshun/greatstorage): Supercharge `localStorage` — store any data type, key expiration, namespacing, and schema validation
+- [Polytask](https://github.com/yangshun/polytask): Linear-inspired app centered around commands – keyboard shortcuts, command palette, and AI chat
 - [keyboards.css](https://github.com/yangshun/keyboards.css): Front end library-themed keyboards built using Tailwind CSS
 
 ## Writing
