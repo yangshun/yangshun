@@ -4,7 +4,7 @@
 
 ## Building
 
-- [NUSMods](https://github.com/nusmodifications/nusmods) (646 ⭐): Student-initiated course planning platform for NUS that later turned official
+- [NUSMods](https://github.com/nusmodifications/nusmods) (646 ⭐): Student-initiated course planning platform for National University of Singapore that the school officially endorsed
 - [lago](https://github.com/yangshun/lago) (3k ⭐): Data Structures and Algorithms library in TypeScript
 - [tree-node-cli](https://github.com/yangshun/tree-node-cli) (266 ⭐): Node.js equivalent of `Linux`'s tree command. List directory contents in a tree-like format from CLI or Node.js
 - [delete-github-forks](https://github.com/yangshun/delete-github-forks) (236 ⭐): Bulk delete your GitHub forks easily
