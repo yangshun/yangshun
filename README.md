@@ -7,6 +7,7 @@
 - [tree-node-cli](https://github.com/yangshun/tree-node-cli) (266 ⭐): Node.js equivalent of `Linux`'s tree command. List directory contents in a tree-like format from CLI or Node.js
 - [delete-github-forks](https://github.com/yangshun/delete-github-forks) (236 ⭐): Bulk delete your GitHub forks easily
 - [lago](https://github.com/yangshun/lago) (3k ⭐): Data Structures and Algorithms library in TypeScript
+- [NUSMods](https://github.com/nusmodifications/nusmods) (646 ⭐): Student-initiated course planning platform for NUS that later turned official
 - [create-ts-fast](https://github.com/yangshun/create-ts-fast) (81 ⭐): CLI tool for scaffolding npm packages in TypeScript
 - [greatstorage](https://github.com/yangshun/greatstorage): Supercharge `localStorage` — store any data type, key expiration, namespacing, and schema validation
 - [Polytask](https://github.com/yangshun/polytask): Linear-inspired app centered around commands – keyboard shortcuts, command palette, and AI chat
@@ -25,7 +26,6 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) (63.9k ⭐): Simple and extensible documentation website generator, powers Meta's open source project websites
 - [facebook/flux](https://github.com/facebookarchive/flux) (17.5k ⭐): The first state management library for React
 - [facebook/infima](https://github.com/facebookincubator/infima) (443 ⭐): CSS framework for documentation websites (built for Docusaurus)
-- [NUSMods](https://github.com/nusmodifications/nusmods) (646 ⭐): Student-initiated course planning platform for NUS that later turned official
 
 ## GitHub activity
 
