@@ -9,7 +9,7 @@
 - [tree-node-cli](https://github.com/yangshun/tree-node-cli) (266 ⭐): Node.js equivalent of `Linux`'s tree command. List directory contents in a tree-like format from CLI or Node.js
 - [delete-github-forks](https://github.com/yangshun/delete-github-forks) (236 ⭐): Bulk delete your GitHub forks easily
 - [create-ts-fast](https://github.com/yangshun/create-ts-fast) (81 ⭐): CLI tool for scaffolding npm packages in TypeScript
-- [greatstorage](https://github.com/yangshun/greatstorage): Supercharge `localStorage` — store any data type, key expiration, namespacing, and schema validation
+- [greatstorage](https://github.com/yangshun/greatstorage) (46 ⭐): Supercharge `localStorage` — store any data type, key expiration, namespacing, and schema validation
 - [Polytask](https://github.com/yangshun/polytask): Linear-inspired app centered around commands – keyboard shortcuts, command palette, and AI chat
 - [keyboards.css](https://github.com/yangshun/keyboards.css): Front end library-themed keyboards built using Tailwind CSS
 
