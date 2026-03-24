@@ -10,6 +10,7 @@
 - [delete-github-forks](https://github.com/yangshun/delete-github-forks) (236 ⭐): Bulk delete your GitHub forks easily
 - [create-ts-fast](https://github.com/yangshun/create-ts-fast) (81 ⭐): CLI tool for scaffolding npm packages in TypeScript
 - [greatstorage](https://github.com/yangshun/greatstorage) (68 ⭐): Supercharge `localStorage` — store any data type, key expiration, namespacing, and schema validation
+- [reclassify](https://github.com/yangshun/reclassify): Automatic JSX runtime for React that lets intrinsic elements accept Vue- and Svelte-style className values directly in JSX
 - [keyboards.css](https://github.com/yangshun/keyboards.css) (71 ⭐): Front end library-themed keyboards built using Tailwind CSS
 - [Polytask](https://github.com/yangshun/polytask) (15 ⭐): Linear-inspired app centered around commands – keyboard shortcuts, command palette, and AI chat
 
