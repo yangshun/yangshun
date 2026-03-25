@@ -4,13 +4,13 @@
 
 ## Building
 
-- [NUSMods](https://github.com/nusmodifications/nusmods) (646 ⭐): Student-initiated course planning platform for National University of Singapore that the school officially endorsed
+- [NUSMods](https://github.com/nusmodifications/nusmods) (664 ⭐): Student-initiated course planning platform for National University of Singapore that the school officially endorsed
 - [lago](https://github.com/yangshun/lago) (3k ⭐): Data Structures and Algorithms library in TypeScript
-- [tree-node-cli](https://github.com/yangshun/tree-node-cli) (266 ⭐): Node.js equivalent of `Linux`'s tree command. List directory contents in a tree-like format from CLI or Node.js
+- [tree-node-cli](https://github.com/yangshun/tree-node-cli) (266 ⭐): Node.js equivalent of Linux's `tree` command. List directory contents in a tree-like format from CLI or Node.js
 - [delete-github-forks](https://github.com/yangshun/delete-github-forks) (236 ⭐): Bulk delete your GitHub forks easily
 - [create-ts-fast](https://github.com/yangshun/create-ts-fast) (81 ⭐): CLI tool for scaffolding npm packages in TypeScript
-- [greatstorage](https://github.com/yangshun/greatstorage) (68 ⭐): Supercharge `localStorage` — store any data type, key expiration, namespacing, and schema validation
-- [reclassify](https://github.com/yangshun/reclassify): Automatic JSX runtime for React that lets intrinsic elements accept Vue- and Svelte-style className values directly in JSX
+- [greatstorage](https://github.com/yangshun/greatstorage) (68 ⭐): Supercharge `localStorage`. Dtore any data type, key expiration, namespacing, and schema validation
+- [reclassify](https://github.com/yangshun/reclassify) (40 ⭐): Construct `className` strings directly in JSX without using clsx() / className()
 - [keyboards.css](https://github.com/yangshun/keyboards.css) (71 ⭐): Front end library-themed keyboards built using Tailwind CSS
 - [Polytask](https://github.com/yangshun/polytask) (15 ⭐): Linear-inspired app centered around commands – keyboard shortcuts, command palette, and AI chat
 
