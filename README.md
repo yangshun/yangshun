@@ -12,8 +12,8 @@
 - [reclassify](https://github.com/yangshun/reclassify) (76 ⭐): Construct `className` strings directly in JSX without using clsx() / className()
 - [greatstorage](https://github.com/yangshun/greatstorage) (71 ⭐): Supercharge `localStorage`. Dtore any data type, key expiration, namespacing, and schema validation
 - [keyboards.css](https://github.com/yangshun/keyboards.css) (71 ⭐): Front end library-themed keyboards built using Tailwind CSS
-- [TeenyCode](https://github.com/yangshun/teenycode) (35 ⭐): Tiny coding agent in 200 lines of code
-- [Polytask](https://github.com/yangshun/polytask) (15 ⭐): Linear-inspired app centered around commands – keyboard shortcuts, command palette, and AI chat
+- [teenycode](https://github.com/yangshun/teenycode) (35 ⭐): Tiny coding agent in 200 lines of code
+- [polytask](https://github.com/yangshun/polytask) (15 ⭐): Linear-inspired app centered around commands – keyboard shortcuts, command palette, and AI chat
 
 ## Writing
 
