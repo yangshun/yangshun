@@ -10,8 +10,8 @@
 - [delete-github-forks](https://github.com/yangshun/delete-github-forks) (236 ⭐): Bulk delete your GitHub forks easily
 - [teenycode](https://github.com/yangshun/teenycode) (88 ⭐): Tiny coding agent in 200 lines of code
 - [reclassify](https://github.com/yangshun/reclassify) (82 ⭐): Construct `className` strings directly in JSX without using `clsx()` / `className()`
+- [ultrastorage](https://github.com/yangshun/ultrastorage) (78 ⭐): Supercharge `localStorage`. Store any data type, key expiration, namespacing, and schema validation
 - [create-ts-fast](https://github.com/yangshun/create-ts-fast) (81 ⭐): CLI tool for scaffolding npm packages in TypeScript
-- [greatstorage](https://github.com/yangshun/greatstorage) (71 ⭐): Supercharge `localStorage`. Store any data type, key expiration, namespacing, and schema validation
 - [keyboards.css](https://github.com/yangshun/keyboards.css) (71 ⭐): Front end library-themed keyboards built using Tailwind CSS
 - [polytask](https://github.com/yangshun/polytask) (15 ⭐): Linear-inspired app centered around commands – keyboard shortcuts, command palette, and AI chat
 
