@@ -1,6 +1,6 @@
 # Hi I'm Yangshun
 
-📍 Singapore &middot; ✨ AI Frontend Engineer &middot; 🚀 Building [GreatFrontEnd](https://www.greatfrontend.com/) &middot; Ex-Meta Staff Engineer &middot; Creator of Docusaurus 2
+✨ AI Frontend Engineer &middot; [Void](https://github.com/voidzero-dev/void) core contributor &middot; 🚀 Building [GreatFrontEnd](https://www.greatfrontend.com/) &middot; Ex-Meta Staff Engineer &middot; Creator of Docusaurus 2
 
 ## Building
 
